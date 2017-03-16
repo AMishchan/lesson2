@@ -1,8 +1,6 @@
 
 # folder logs
-.idea/*
+.idea/
 
 # txt files
 docs/*.txt
-
-.gitignore
